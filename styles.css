@@ -3,7 +3,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url(trav.jpeg);
+    background-image: url(inro.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -12,7 +12,7 @@ body {
 header {
     background-color: rgba(76, 175, 80, 0.8); /* Semi-transparent green */
     color: white;
-    padding: 40px 60px;
+    padding: 50px 40px;
     display: flex;
     justify-content: space-between;
     align-items: center;
